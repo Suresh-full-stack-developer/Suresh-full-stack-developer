@@ -19,7 +19,7 @@
 
 - 🎓 Full Stack Developer with a focus on building clean, functional, and user-friendly applications
 - 💻 I work across the stack — from frontend interfaces to backend logic and APIs
-- 🌱 Currently exploring modern frontend tooling, TypeScript, and AI-powered applications
+- 🌱 Currently exploring modern frontend tooling and AI-powered applications
 - 🛠️ Recent builds include a **ToDo App**, **Student Dashboard**, **AI ChatBot**, and a **Symposium Registration System**
 - ⚡ Fun fact: I enjoy turning small ideas into working prototypes over a weekend
 
@@ -72,10 +72,6 @@
     <td width="50%">
       <h4>📝 <a href="https://github.com/Suresh-full-stack-developer/Sympo-registration">Sympo Registration</a></h4>
       Event/symposium registration system for managing sign-ups.
-    </td>
-    <td width="50%">
-      <h4>🐍 <a href="https://github.com/Suresh-full-stack-developer/Python-Quiz">Python Quiz</a></h4>
-      A quiz application built in Python.
     </td>
   </tr>
 </table>
