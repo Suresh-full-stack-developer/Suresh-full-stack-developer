@@ -83,16 +83,30 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suresh-full-stack-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-full-stack-developer&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Suresh-full-stack-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Suresh's GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-full-stack-developer&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suresh-full-stack-developer&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Suresh-full-stack-developer&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suresh-full-stack-developer&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Suresh-full-stack-developer&theme=tokyonight&no-frame=true&column=7&margin-w=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
