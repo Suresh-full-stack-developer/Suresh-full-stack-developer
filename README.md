@@ -22,44 +22,51 @@
 
 ---
 
-<!-- ================= FRONT PAGE ================= -->
+<!-- ================= FRONT SECTION ================= -->
 
 <table>
 <tr>
 
-<td width="48%" valign="center">
+<td width="50%" valign="middle">
 
-## 👨‍💻 Who I Am
+<h2>👨‍💻 Java Full-Stack Developer</h2>
 
-🎓 **Computer Science & Engineering Graduate**
+<p>
+I'm a Computer Science & Engineering graduate passionate about
+software development, problem solving and building real-world applications.
+</p>
 
-💻 **Java Full-Stack Developer**
+<p>
+☕ <strong>Java</strong><br>
+🌱 <strong>Spring Boot</strong><br>
+🗄️ <strong>SQL & Oracle</strong><br>
+⚛️ <strong>React</strong><br>
+🌐 <strong>JavaScript</strong><br>
+🧠 <strong>DSA</strong>
+</p>
 
-☕ Currently focused on:
+<p>
+Currently focused on strengthening my Java backend development
+skills and becoming a professional Java Full-Stack Developer.
+</p>
 
-* Core Java
-* OOP & Collections
-* SQL & Oracle
-* Spring & Spring Boot
-* REST APIs
-* Data Structures & Algorithms
-
-🌐 Previous experience with:
-
-* HTML & CSS
-* JavaScript
-* React
-* Node.js
-* Express.js
-* MongoDB
-
-🚀 My goal is to build reliable, scalable and user-friendly applications while continuously improving my development and problem-solving skills.
+<p>
+<a href="https://github.com/Suresh-full-stack-developer">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://suresh-full-stack-developer.github.io/Updated-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
 
 </td>
 
-<td width="52%" align="center">
+<td width="50%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1200&pause=300&color=2E9EF7&center=true&vCenter=true&width=500&height=300&lines=%24+java+Suresh.java;Initializing+Java+Developer...;Loading+Core+Java...;Loading+Spring+Boot...;Connecting+Database...;Running+REST+API...;Solving+DSA+Problems...;Building+Real-World+Applications...;BUILD+SUCCESSFUL+%E2%9C%93" alt="Java Developer Terminal Animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=500&pause=150&color=00D9FF&background=0D1117&center=true&vCenter=true&width=500&height=330&lines=%E2%96%B6+Suresh.java;public+class+Suresh+%7B;++++public+static+void+main(String%5B%5D+args)+%7B;++++++++System.out.println(%22Hello%2C+World!%22)%3B;++++%7D;%7D;%24+javac+Suresh.java;Compiling...;%E2%9C%93+Compilation+Successful;%24+java+Suresh;Hello%2C+World!;%24+Process+finished+with+exit+code+0;%E2%96%B6+Running+next+program...;public+class+BinarySearch+%7B;++++System.out.println(%22Element+Found%22)%3B;%7D;%24+javac+BinarySearch.java;%E2%9C%93+Build+Successful"
+alt="Java Compiler Animation"
+/>
 
 </td>
 
@@ -68,21 +75,40 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suresh-full-stack-developer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Computer Science & Engineering graduate
+* 💻 Currently building my career as a **Java Full-Stack Developer**
+* ☕ Learning **Java, OOP, Collections and Exception Handling**
+* 🌱 Exploring **Spring, Spring Boot and REST APIs**
+* 🗄️ Working with **SQL, Oracle and MySQL**
+* 🌐 Experienced with **HTML, CSS, JavaScript, React, Node.js and MongoDB**
+* 🧠 Practicing **DSA, SQL and problem solving**
+* 🚀 Interested in building practical and user-friendly applications
+
+---
+
 ## 🛠️ Technical Skills
 
-### ☕ Languages
+### ☕ Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
@@ -116,8 +142,8 @@
 ### ☕ Java Development
 
 * Core Java
-* OOP
-* Collections
+* Object-Oriented Programming
+* Collections Framework
 * Exception Handling
 * String Handling
 * Arrays
@@ -134,6 +160,7 @@
 * Joins
 * Subqueries
 * Group Functions
+* Aggregate Functions
 * Complex Queries
 
 </td>
@@ -149,14 +176,14 @@
 * Spring
 * Spring Boot
 * REST APIs
-* Database Integration
 * Backend Development
+* Database Integration
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 DSA
+### 🧠 Data Structures & Algorithms
 
 * Arrays
 * Searching
@@ -183,7 +210,7 @@
 
 **MERN Stack Based Career Readiness Platform**
 
-A platform designed to help students evaluate their technical skills through assessments, identify skill gaps and receive career-oriented recommendations.
+A career readiness platform designed to help students evaluate their technical skills through assessments, identify skill gaps and receive career-oriented recommendations.
 
 **Stack:** React.js · Node.js · Express.js · MongoDB · JWT
 
@@ -209,7 +236,7 @@ An interactive chatbot application designed to provide a conversational user exp
 
 ### 📊 Student Dashboard App
 
-A student management dashboard for viewing and managing student-related information.
+A student management dashboard application for viewing and managing student-related information.
 
 **Stack:** Java · Android · RecyclerView · Shared Preferences
 
@@ -237,7 +264,7 @@ A simple task management application for creating, managing and tracking daily t
 
 ### 🌐 Developer Portfolio
 
-Personal portfolio website showcasing projects, skills and my developer journey.
+Personal portfolio website showcasing projects, technical skills and my developer journey.
 
 **Stack:** HTML · CSS · JavaScript
 
@@ -264,27 +291,75 @@ A web-based registration system created for managing symposium/event registratio
 
 ---
 
+## 💡 Problem Solving
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-Coding-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Queries-blue?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Currently strengthening my problem-solving skills through Java,
+Data Structures & Algorithms and SQL practice.
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Suresh-full-stack-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Suresh GitHub Stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-full-stack-developer&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api?username=Suresh-full-stack-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+alt="Suresh GitHub Stats"
+/>
+
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-full-stack-developer&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"
+/>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Suresh-full-stack-developer&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+
+<img
+src="https://streak-stats.demolab.com/?user=Suresh-full-stack-developer&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
+
 </p>
+
+
+## 🎯 Current Goal
+
+```text
+                 JAVA FULL-STACK DEVELOPER
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+       Frontend         Backend         Database
+          │                │                │
+       React          Spring Boot        SQL
+       HTML           REST APIs          Oracle
+       CSS            Java              MySQL
+       JavaScript     Spring            MongoDB
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                           ▼
+                    Real-World Projects
+                           │
+                           ▼
+                    Problem Solving
+                           │
+                           ▼
+                   Software Developer💻
+```
 
 ---
 
@@ -306,10 +381,6 @@ I'm interested in **Java Full-Stack development, software engineering opportunit
 <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suresh-full-stack-developer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
