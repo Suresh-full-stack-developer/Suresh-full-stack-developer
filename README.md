@@ -267,25 +267,6 @@ identify skill gaps and improve career readiness.
 
 ---
 
-## 🧠 Problem Solving
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-Problem%20Solving-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL-Queries-informational?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-I regularly practice coding problems to improve my logical thinking,
-algorithmic skills and ability to write efficient solutions.
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
