@@ -1,120 +1,123 @@
-<table>
-<tr>
-<td width="52%" valign="center">
-
-<h1>Hi 👋, I'm Suresh</h1>
-
-<h3>Java Full-Stack Developer</h3>
-
-<p>
-Building scalable, user-friendly web applications with clean code,
-modern technologies, and a problem-solving mindset.
-</p>
-
-<p>
-☕ Java &nbsp; • &nbsp; 🌱 Spring Boot &nbsp; • &nbsp; 🗄️ SQL
-<br>
-⚛️ React &nbsp; • &nbsp; 🌐 JavaScript &nbsp; • &nbsp; 🧩 DSA
-</p>
-
-<p>
-<a href="https://www.linkedin.com/in/suresh-p-full-stack-developer/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sureshsureshpp100@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-<p>
-<a href="https://suresh-full-stack-developer.github.io/Updated-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/Suresh-full-stack-developer">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="48%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=2E9EF7&center=true&vCenter=true&width=450&height=250&lines=public+class+Suresh+%7B;String+role+%3D+%22Java+Developer%22%3B;learn%28%29%3B;code%28%29%3B;solveProblems%28%29%3B;buildRealWorldApps%28%29%3B;System.out.println%28%22Build+Success%22%29%3B;%7D" alt="Java Coding Animation"/>
-
-</td>
-</tr>
-</table>
+<h1 align="center">Hi 👋, I'm Suresh</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Suresh-full-stack-developer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <strong>Java Full-Stack Developer</strong>
+</p>
+
+<p align="center">
+  Building real-world applications with clean code, modern technologies and a problem-solving mindset.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suresh-p-full-stack-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sureshsureshpp100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://suresh-full-stack-developer.github.io/Updated-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ================= FRONT PAGE ================= -->
 
-I'm a **Computer Science & Engineering graduate** passionate about software development and problem solving.
+<table>
+<tr>
 
-Currently, I'm building my career as a **Java Full-Stack Developer**, focusing on backend development, databases, REST APIs, and modern frontend technologies.
+<td width="48%" valign="center">
 
-* 🎓 Computer Science & Engineering graduate
-* 💻 Currently focused on **Java Full-Stack Development**
-* ☕ Learning **Core Java, OOP, Collections and Exception Handling**
-* 🌱 Exploring **Spring, Spring Boot and REST APIs**
-* 🗄️ Working with **SQL, Oracle and MySQL**
-* 🌐 Experienced with **HTML, CSS, JavaScript, React, Node.js and MongoDB**
-* 🧠 Practicing **DSA, SQL and problem solving**
-* 🚀 Interested in building real-world applications
+## 👨‍💻 Who I Am
+
+🎓 **Computer Science & Engineering Graduate**
+
+💻 **Java Full-Stack Developer**
+
+☕ Currently focused on:
+
+* Core Java
+* OOP & Collections
+* SQL & Oracle
+* Spring & Spring Boot
+* REST APIs
+* Data Structures & Algorithms
+
+🌐 Previous experience with:
+
+* HTML & CSS
+* JavaScript
+* React
+* Node.js
+* Express.js
+* MongoDB
+
+🚀 My goal is to build reliable, scalable and user-friendly applications while continuously improving my development and problem-solving skills.
+
+</td>
+
+<td width="52%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1200&pause=300&color=2E9EF7&center=true&vCenter=true&width=500&height=300&lines=%24+java+Suresh.java;Initializing+Java+Developer...;Loading+Core+Java...;Loading+Spring+Boot...;Connecting+Database...;Running+REST+API...;Solving+DSA+Problems...;Building+Real-World+Applications...;BUILD+SUCCESSFUL+%E2%9C%93" alt="Java Developer Terminal Animation"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Technical Skills
 
-### ☕ Programming Languages
+### ☕ Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-**Database:** Oracle SQL · MySQL · MongoDB
+<p>
+  <strong>Database:</strong> Oracle SQL · MySQL · MongoDB
+</p>
 
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
 
 ---
 
-## 🚀 Current Learning Journey
+## 🚀 Current Focus
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ☕ Java
+### ☕ Java Development
 
 * Core Java
-* Object-Oriented Programming
-* Collections Framework
+* OOP
+* Collections
 * Exception Handling
 * String Handling
 * Arrays
@@ -126,8 +129,7 @@ Currently, I'm building my career as a **Java Full-Stack Developer**, focusing o
 
 ### 🗄️ Database
 
-* SQL
-* Oracle
+* Oracle SQL
 * MySQL
 * Joins
 * Subqueries
@@ -135,18 +137,20 @@ Currently, I'm building my career as a **Java Full-Stack Developer**, focusing o
 * Complex Queries
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌱 Backend
+### 🌱 Backend Development
 
 * Spring
 * Spring Boot
 * REST APIs
-* Backend Architecture
 * Database Integration
+* Backend Development
 
 </td>
 
@@ -162,6 +166,7 @@ Currently, I'm building my career as a **Java Full-Stack Developer**, focusing o
 * Problem Solving
 
 </td>
+
 </tr>
 </table>
 
@@ -169,121 +174,123 @@ Currently, I'm building my career as a **Java Full-Stack Developer**, focusing o
 
 ## 📌 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🎯 Career Readiness Platform
 
 **MERN Stack Based Career Readiness Platform**
 
-A career readiness platform designed to help students evaluate their technical skills through assessments, identify skill gaps, and receive career-oriented recommendations.
+A platform designed to help students evaluate their technical skills through assessments, identify skill gaps and receive career-oriented recommendations.
 
-**Technologies:** React.js · Node.js · Express.js · MongoDB · JWT
+**Stack:** React.js · Node.js · Express.js · MongoDB · JWT
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 ChatBot 2.0
 
 An interactive chatbot application designed to provide a conversational user experience.
 
-**Technologies:** TypeScript · React · Socket.IO
+**Stack:** TypeScript · React · Socket.IO
 
-🔗 **[View Project](https://github.com/Suresh-full-stack-developer/ChatBot-2.0)**
+🔗 [View Project](https://github.com/Suresh-full-stack-developer/ChatBot-2.0)
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 📊 Student Dashboard App
 
-A student management dashboard application for viewing and managing student-related information.
+A student management dashboard for viewing and managing student-related information.
 
-**Technologies:** Java · Android · RecyclerView · Shared Preferences
+**Stack:** Java · Android · RecyclerView · Shared Preferences
 
-🔗 **[View Project](https://github.com/Suresh-full-stack-developer/Student-Dashboard-App)**
+🔗 [View Project](https://github.com/Suresh-full-stack-developer/Student-Dashboard-App)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### ✅ ToDo Application
 
-A simple task management application designed to create, manage, and track daily tasks.
+A simple task management application for creating, managing and tracking daily tasks.
 
-**Technologies:** HTML · CSS · JavaScript
+**Stack:** HTML · CSS · JavaScript
 
-🔗 **[View Project](https://github.com/Suresh-full-stack-developer/ToDo-App)**
+🔗 [View Project](https://github.com/Suresh-full-stack-developer/ToDo-App)
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🌐 Developer Portfolio
 
-Personal portfolio website showcasing my projects, technical skills, and developer journey.
+Personal portfolio website showcasing projects, skills and my developer journey.
 
-**Technologies:** HTML · CSS · JavaScript
+**Stack:** HTML · CSS · JavaScript
 
-🔗 **[Live Portfolio](https://suresh-full-stack-developer.github.io/Updated-portfolio/)**
+🔗 [Live Portfolio](https://suresh-full-stack-developer.github.io/Updated-portfolio/)
 
-🔗 **[Source Code](https://github.com/Suresh-full-stack-developer/Updated-portfolio)**
+🔗 [Source Code](https://github.com/Suresh-full-stack-developer/Updated-portfolio)
 
----
+</td>
 
-### 📝 Symposium Registration System
+<td width="50%" valign="top">
+
+### 📝 Symposium Registration
 
 A web-based registration system created for managing symposium/event registrations.
 
-**Technologies:** Web Technologies
+**Stack:** Web Technologies
 
-🔗 **[View Project](https://github.com/Suresh-full-stack-developer/Sympo-registration)**
+🔗 [View Project](https://github.com/Suresh-full-stack-developer/Sympo-registration)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=Suresh-full-stack-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-alt="Suresh GitHub Stats"
-/>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-full-stack-developer&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"
-/>
-
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Suresh-full-stack-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Suresh GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-full-stack-developer&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-<img
-src="https://streak-stats.demolab.com/?user=Suresh-full-stack-developer&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Suresh-full-stack-developer&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-<img
-src="https://raw.githubusercontent.com/Suresh-full-stack-developer/Suresh-full-stack-developer/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img
-src="https://github-profile-trophy.vercel.app/?username=Suresh-full-stack-developer&theme=tokyonight&no-frame=true&column=7&margin-w=15"
-alt="GitHub Trophies"
-/>
-</p>
-
----
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in **Java Full-Stack development, software engineering opportunities, real-world projects, and open-source collaboration**.
+I'm interested in **Java Full-Stack development, software engineering opportunities, real-world projects and open-source collaboration**.
 
 <p align="center">
 
@@ -302,5 +309,9 @@ I'm interested in **Java Full-Stack development, software engineering opportunit
 </p>
 
 <p align="center">
-<i>Keep learning. Keep building. Keep improving. 🚀</i>
+  <img src="https://komarev.com/ghpvc/?username=Suresh-full-stack-developer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep improving. 🚀</i>
 </p>
